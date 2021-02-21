@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="121px" height="121px" viewBox="0 0 121 121" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>firststep</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-header-test-2" transform="translate(-580.000000, -1067.000000)" stroke-width="4">
+            <g id="firststep" transform="translate(582.000000, 1068.000000)">
+                <g id="_x3C_Grupo_x3E__77_">
+                    <g id="Group" stroke="#000000">
+                        <path d="M64.431746,93.436 L4.4952381,93.436 C2.43492063,93.436 0.749206349,91.744 0.749206349,89.676 L0.749206349,5.076 C0.749206349,3.008 2.43492063,1.316 4.4952381,1.316 L113.130159,1.316 C115.190476,1.316 116.87619,3.008 116.87619,5.076 L116.87619,84.036" id="Path" stroke-linecap="square" stroke-linejoin="round"></path>
+                        <line x1="0.749206349" y1="21.996" x2="116.87619" y2="21.996" id="Path" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <g transform="translate(9.365079, 7.520000)" id="Oval">
+                            <ellipse cx="3.55873016" cy="4.136" rx="2.80952381" ry="2.82"></ellipse>
+                            <ellipse cx="14.7968254" cy="4.136" rx="2.80952381" ry="2.82"></ellipse>
+                            <ellipse cx="26.0349206" cy="4.136" rx="2.80952381" ry="2.82"></ellipse>
+                        </g>
+                    </g>
+                    <line x1="23.2253968" y1="42.676" x2="94.4" y2="42.676" id="Path" stroke="#FB8E33" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <line x1="23.2253968" y1="55.836" x2="55.0666667" y2="55.836" id="Path" stroke="#FB8E33" stroke-linecap="round" stroke-linejoin="round"></line>
+                </g>
+                <g id="Group" transform="translate(64.000000, 55.000000)" stroke="#FB8E33" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M0.744827586,0.317647059 L5.5862069,16.5058824 L40.0344828,59.6117647 C42.6413793,62.8117647 47.1103448,63.1882353 50.2758621,60.7411765 L50.2758621,60.7411765 C53.2551724,58.1058824 53.8137931,53.5882353 51.2068966,50.5764706 L16.7586207,8.97647059 L0.744827586,0.317647059 Z" id="Path"></path>
+                    <line x1="36.1241379" y1="53.0235294" x2="39.8482759" y2="49.2588235" id="Path"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
